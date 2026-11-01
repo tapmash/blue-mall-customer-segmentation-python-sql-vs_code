@@ -59,8 +59,8 @@ The dataset (`Customers.csv`) contains customer demographic and financial attrib
 - **Spending Score (1-100)**: Score assigned by the mall based on customer behavior and purchasing nature.
 
 ## Dataset
----
-Due to licensing restrictions, the raw dataset is not hosted directly in this repository. 
+
+- Due to licensing restrictions, the raw dataset is not hosted directly in this repository. 
 You can download the original dataset from Kaggle here:
 👉 [Mall Customer Segmentation Data on Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 ---
