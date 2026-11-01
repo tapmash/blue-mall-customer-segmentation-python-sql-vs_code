@@ -58,7 +58,7 @@ The dataset (`Customers.csv`) contains customer demographic and financial attrib
 - **Annual Income (R)**: Annual income of the customer in thousands of dollars.
 - **Spending Score (1-100)**: Score assigned by the mall based on customer behavior and purchasing nature.
 
-## Dataset
+ Dataset
 
 *Due to licensing restrictions, the raw dataset is not hosted directly in this repository.* 
 You can download the original dataset from Kaggle here:
